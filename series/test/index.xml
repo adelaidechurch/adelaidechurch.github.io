@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test on Alpha Church</title>
+    <title>Test on Adelaide Apostolic Church</title>
     <link>https://adelaidechurch.github.io/series/test/</link>
-    <description>Recent content in Test on Alpha Church</description>
+    <description>Recent content in Test on Adelaide Apostolic Church</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 May 2018 09:06:46 +1000</lastBuildDate>
@@ -27,6 +27,33 @@
       
       <guid>https://adelaidechurch.github.io/sermons/institutes-2-11/</guid>
       <description>Public Domain recording from librivox</description>
+    </item>
+    
+    <item>
+      <title>ACTS OF THE HOLY SPIRIT</title>
+      <link>https://adelaidechurch.github.io/videos/acts-of-the-holy-spirit/</link>
+      <pubDate>Thu, 21 Jun 2012 20:12:30 +1000</pubDate>
+      
+      <guid>https://adelaidechurch.github.io/videos/acts-of-the-holy-spirit/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>CHRIST JESUS OUR ADVOCATE</title>
+      <link>https://adelaidechurch.github.io/videos/jesus-christ-our-advocate/</link>
+      <pubDate>Thu, 21 Jun 2012 20:12:30 +1000</pubDate>
+      
+      <guid>https://adelaidechurch.github.io/videos/jesus-christ-our-advocate/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>EMERGENCY ANOINTING</title>
+      <link>https://adelaidechurch.github.io/videos/emergency-anointing/</link>
+      <pubDate>Thu, 21 Jun 2012 20:12:30 +1000</pubDate>
+      
+      <guid>https://adelaidechurch.github.io/videos/emergency-anointing/</guid>
+      <description>   </description>
     </item>
     
   </channel>
