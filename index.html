@@ -215,30 +215,33 @@
 					<h2>Get in touch!</h2>
 					<p>You can also call us at &#43;61-402519608</p>
 					
-	<div class="box">
-		<form method="POST" action="https://formspree.io/">
-			<div class="row uniform 50%">
-				<div class="6u 12u(mobilep)">
-					<input type="text" name="name" id="name" value="" placeholder="Name" />
-				</div>
-				<div class="6u 12u(mobilep)">
-					<input type="email" name="_replyto" id="email" value="" placeholder="Email" />
-				</div>
+	<form name="contact" method="POST" action="/contact_thanks" netlify-honeypot="special_email" netlify>
+		<div class="hpot">
+			<label>Get some honey <input name="special_email" /></label>
+		</div>
+		<div class="row uniform 50%">
+			<div class="6u 12u(mobilep)">
+	    	<input type="text" name="name" placeholder="Your name">
+	  	</div>
+			<div class="6u 12u(mobilep)">
+	    	<input type="email" name="email" placeholder = "Email address">
+	  	</div>
+		</div>
+		<div class="row uniform 50%">
+			<div class="12u">
+				<textarea name="message" placeholder="Enter your message" rows="6"></textarea>
 			</div>
-			<div class="row uniform 50%">
-				<div class="12u">
-					<textarea name="message" id="message" placeholder="Enter your message" rows="6"></textarea>
-				</div>
+		</div>
+		<div class="row uniform">
+			<div class="12u">
+				<ul class="actions align-center">
+	  			<li>
+						<input type="submit" value="Send" />
+					</li>
+				</ul>
 			</div>
-			<div class="row uniform">
-				<div class="12u">
-					<ul class="actions align-center">
-						<li><input type="submit" value="Send Message" /></li>
-					</ul>
-				</div>
-			</div>
-		</form>
-	</div>
+		</div>
+	</form>
 
 
 
