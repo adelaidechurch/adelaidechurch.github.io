@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Adelaide Apostolic Church</title>
@@ -12,16 +12,7 @@
     
     
     <item>
-      <title></title>
-      <link>https://adelaidechurch.github.io/tags/</link>
-      <pubDate>Sat, 12 May 2018 13:49:50 +1000</pubDate>
-      
-      <guid>https://adelaidechurch.github.io/tags/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bible</title>
+      <title>bible</title>
       <link>https://adelaidechurch.github.io/tags/bible/</link>
       <pubDate>Fri, 11 May 2018 09:06:46 +1000</pubDate>
       
@@ -30,29 +21,38 @@
     </item>
     
     <item>
-      <title>Development</title>
-      <link>https://adelaidechurch.github.io/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>historical</title>
+      <link>https://adelaidechurch.github.io/tags/historical/</link>
+      <pubDate>Fri, 11 May 2018 09:06:46 +1000</pubDate>
       
-      <guid>https://adelaidechurch.github.io/tags/development/</guid>
+      <guid>https://adelaidechurch.github.io/tags/historical/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Go</title>
-      <link>https://adelaidechurch.github.io/tags/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>scripture</title>
+      <link>https://adelaidechurch.github.io/tags/scripture/</link>
+      <pubDate>Fri, 11 May 2018 09:06:46 +1000</pubDate>
       
-      <guid>https://adelaidechurch.github.io/tags/go/</guid>
+      <guid>https://adelaidechurch.github.io/tags/scripture/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Golang</title>
-      <link>https://adelaidechurch.github.io/tags/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>redemption</title>
+      <link>https://adelaidechurch.github.io/tags/redemption/</link>
+      <pubDate>Thu, 03 May 2018 20:12:30 +1000</pubDate>
       
-      <guid>https://adelaidechurch.github.io/tags/golang/</guid>
+      <guid>https://adelaidechurch.github.io/tags/redemption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theology</title>
+      <link>https://adelaidechurch.github.io/tags/theology/</link>
+      <pubDate>Thu, 03 May 2018 20:12:30 +1000</pubDate>
+      
+      <guid>https://adelaidechurch.github.io/tags/theology/</guid>
       <description></description>
     </item>
     
