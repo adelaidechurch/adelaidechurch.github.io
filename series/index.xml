@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Adelaide Apostolic Church</title>
-    <link>https://www.adelaideapostolicchurch.com/series/</link>
+    <link>https://www.adelaideapostolicchurch.org/series/</link>
     <description>Recent content in Series on Adelaide Apostolic Church</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 May 2018 09:06:46 +1000</lastBuildDate>
     
-	<atom:link href="https://www.adelaideapostolicchurch.com/series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.adelaideapostolicchurch.org/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test</title>
-      <link>https://www.adelaideapostolicchurch.com/series/test/</link>
+      <link>https://www.adelaideapostolicchurch.org/series/test/</link>
       <pubDate>Fri, 11 May 2018 09:06:46 +1000</pubDate>
       
-      <guid>https://www.adelaideapostolicchurch.com/series/test/</guid>
+      <guid>https://www.adelaideapostolicchurch.org/series/test/</guid>
       <description></description>
     </item>
     
